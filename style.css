@@ -3,3 +3,18 @@ body {
     font-family: sans-serif;
     text-align: center;
 }
+ul{
+    margin-top: 0px;
+    margin-bottom: 0px;	
+    display:inline-block;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+#img {
+    text-align: center;
+    height: 400px;
+    width: 500px;
+}
